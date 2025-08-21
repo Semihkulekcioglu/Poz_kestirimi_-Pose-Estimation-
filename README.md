@@ -1,3 +1,5 @@
+For the Turkish documentation, see `README_TR.md`.
+
 ## Pose Estimation (MediaPipe, Python)
 
 This repository demonstrates a minimal, real‑time human pose estimation app using MediaPipe and OpenCV. It can run with a webcam or a local video file and overlays detected pose landmarks on each frame with an FPS counter.
@@ -64,8 +66,4 @@ See the `Screenshots/` folder for example results.
 ### Roadmap
 - Optional keypoint export to CSV/JSON
 - Simple activity/angle calculations
-
----
-For the Turkish documentation, see `README_TR.md`.
-
 
