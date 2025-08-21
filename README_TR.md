@@ -58,6 +58,10 @@ Kaydedip betiği yeniden çalıştırın.
 - Kamera boş kare dönüyor: Kamerayı kullanan başka bir uygulamayı kapatın.
 - Performans düşükse: Giriş çözünürlüğünü düşürün veya `waitKey` süresini artırın.
 
+### Ekran Görüntüleri
+<img width="640" height="640" alt="Output_1" src="https://github.com/user-attachments/assets/f9f8bb89-9fa4-4419-8259-afb6c87f1ebd" />
+<img width="640" height="640" alt="Output_3" src="https://github.com/user-attachments/assets/57a962fb-75e7-4c8f-ac9c-5a63b418ca51" />
+
 ### Yol Haritası
 - Kilit noktalarını CSV/JSON’a aktarma
 - Basit açı/aktivite hesaplamaları
