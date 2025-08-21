@@ -1,3 +1,5 @@
+İngilizce dokümantasyon için `README.md` dosyasına bakın.
+
 ## Poz Kestirimi (MediaPipe, Python)
 
 Bu depo, MediaPipe ve OpenCV kullanarak gerçek zamanlı insan pozu kestirimi (iskelet noktaları) yapan küçük bir uygulama içerir. Uygulama, hem web kamera hem de yerel video dosyasıyla çalışabilir ve her kare üzerine iskelet bağlantılarını çizer, FPS bilgisini gösterir.
@@ -59,8 +61,4 @@ Kaydedip betiği yeniden çalıştırın.
 ### Yol Haritası
 - Kilit noktalarını CSV/JSON’a aktarma
 - Basit açı/aktivite hesaplamaları
-
----
-İngilizce dokümantasyon için `README.md` dosyasına bakın.
-
 
