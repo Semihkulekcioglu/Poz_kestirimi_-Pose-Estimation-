@@ -52,7 +52,8 @@ cap = cv2.VideoCapture("video5.mp4")
 - Close the output window to stop the program.
 
 ### Screenshots
-See the `Screenshots/` folder for example results.
+<img width="640" height="640" alt="Output_1" src="https://github.com/user-attachments/assets/f9f8bb89-9fa4-4419-8259-afb6c87f1ebd" />
+<img width="640" height="640" alt="Output_3" src="https://github.com/user-attachments/assets/57a962fb-75e7-4c8f-ac9c-5a63b418ca51" />
 
 ### Troubleshooting
 - MediaPipe build errors: upgrade `pip` and `setuptools`, then reinstall.
